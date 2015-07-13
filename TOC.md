@@ -30,7 +30,7 @@
   - [UI 布局-GridLayout 布局](ui-layout-gridlayout.md)
   - [UI 布局-FormLayout 布局](ui-layout-formlayout.md)
   - [UI 布局-Panel](ui-layout-panel.md)
-  - [UI 布局-HorizontalSplitPanel 和 VerticalSplitPanel 布局](ui-layout-horizontalsplitpanel-verticalsplitpane.md)
+  - [UI 布局-HorizontalSplitPanel 和 VerticalSplitPanel 布局](ui-layout-horizontalsplitpanel-verticalsplitpanel.md)
   - [UI 布局-TabSheet 布局](ui-layout-tabsheet.md)
   - [UI 布局-Accordion 布局](ui-layout-accordion.md)
   - [UI 布局-AbsoluteLayout 布局](ui-layout-absolutelayout.md)
