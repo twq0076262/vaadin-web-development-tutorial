@@ -52,6 +52,7 @@ void addCustomer(SQLContainer sqlContainer){
 ```
 
 ![](images/111.png)
+
 整体感觉使用 SQLContainer 编辑数据并不十分方便，还不如直接使用 SQL 语句或是使用hibernate.来的方便。
 
 Tags: [Java EE](http://www.imobilebbs.com/wordpress/archives/tag/java-ee), [Vaadin](http://www.imobilebbs.com/wordpress/archives/tag/vaadin), [Web](http://www.imobilebbs.com/wordpress/archives/tag/web)
